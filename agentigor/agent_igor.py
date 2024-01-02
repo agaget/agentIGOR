@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """AgentIGOR à l'écoute.
 
 Agent Immobilier, Geolocalisaion, Osint et Recherche.
